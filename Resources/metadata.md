@@ -1,8 +1,8 @@
 # Metadata Recommendations
 
-We acknowledge the reality that individual processing archivists may not have the authority to apply all of the methods described here. The following recommendations include those that are actionable in the day-to-day process of descriptive work, as well as those that require advocating for and implementing broader institutional changes at an administrative level. We encourage readers to take action where they can.<sup>5</sup>
+We acknowledge the reality that individual processing archivists may not have the authority to apply all of the methods described here. The following recommendations include those that are actionable in the day-to-day process of descriptive work, as well as those that require advocating for and implementing broader institutional changes at an administrative level. We encourage readers to take action where they can.<sup>[5](#myfootnote5)</sup>
 
-<sup>5</sup> Thank you to Dorothy Berry for encouraging us to consider the difference between guidelines, recommendations, and manifestos, as well as the power required to implement institutional change. 
+<a name="myfootnote5">[5]</a> Thank you to Dorothy Berry for encouraging us to consider the difference between guidelines, recommendations, and manifestos, as well as the power required to implement institutional change. 
 
 ## Voice and Style
 
