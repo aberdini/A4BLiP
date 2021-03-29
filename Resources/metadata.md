@@ -6,10 +6,10 @@ We acknowledge the reality that individual processing archivists may not have th
 
 ## Voice and Style
 
-* Unlearn the “neutral” voice of traditional archival description.<sup>6</sup> Rather than striving for an “objective” voice, which reinforces existing power structures, base description in the question (as posed by Michelle Caswell and Marika Cifor): “Is the descriptive language I am using respectful to the larger communities of people invested in this record?”<sup>7</sup> Decenter “neutrality” and “objectivity” in favor of “respect” and “care.”<sup>8</sup>
-* Avoid passive voice (or passive language in linked data predicates<sup>9</sup>) when describing oppressive relationships. Use active voice in order to embed responsibility within description. For example, consider the difference between these two sentences: 
- * “Four Kent State University students were killed on May 4, 1970, during a clash between the Ohio National Guard and a crowd gathered to protest the Vietnam War.”
- * “Members of the Ohio National Guard killed four Kent State University students during a mass protest against the Vietnam War.”
+* Unlearn the “neutral” voice of traditional archival description.<sup>[6](#myfootnote6)</sup> Rather than striving for an “objective” voice, which reinforces existing power structures, base description in the question (as posed by Michelle Caswell and Marika Cifor): “Is the descriptive language I am using respectful to the larger communities of people invested in this record?”<sup>[7](#myfootnote7)</sup> Decenter “neutrality” and “objectivity” in favor of “respect” and “care.”<sup>[8](#myfootnote8)</sup>
+* Avoid passive voice (or passive language in linked data predicates<sup>[9](#myfootnote9)</sup>) when describing oppressive relationships. Use active voice in order to embed responsibility within description. For example, consider the difference between these two sentences: 
+  * “Four Kent State University students were killed on May 4, 1970, during a clash between the Ohio National Guard and a crowd gathered to protest the Vietnam War.”
+  * “Members of the Ohio National Guard killed four Kent State University students during a mass protest against the Vietnam War.”
 
 * Focus on the humanity of an individual before their identity/ies: 
   * For example, consider the difference between “documents the business dealings of a Black woman named Maria in 18th century Mexico” and “documents the business dealings of Maria, a Black woman in 18th century Mexico.”<sup>10</sup>
