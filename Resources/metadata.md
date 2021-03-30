@@ -36,4 +36,12 @@ We acknowledge the reality that individual processing archivists may not have th
 
 <a name="myfootnote13">[13]</a> Arthur Garfield Hays Papers, Public Policy Papers, Department of Rare Books and Special Collections, Princeton University Library, https://findingaids.princeton.edu/collections/MC072. 
 
+## Community Collaboration and Expanding Audiences
+
+Expand the range of audiences considered when writing archival description to include a plurality of audiences. Evaluate local descriptive practices and policies using the criteria: Which audiences does this description center? Which audiences does it exclude?
+
+* For academic archives, this could look like making description more comprehensible for undergraduates, genealogists/family historians, and local community members. For archives collecting Spanish-language material, this could mean considering whether English-language finding aids are serving users. This could also look like minimizing archival jargon.
+
+* For academic archives, reach out to institutional scholars who have expertise in relevant subject areas to get input on description.<sup>[14](#myfootnote14)</sup>
+
 <a name="myfootnote14">[14]</a> Thanks to Dorothy Berry for pointing out how rarely Africana studies faculty are consulted as opposed to scholars who study European cultures.
