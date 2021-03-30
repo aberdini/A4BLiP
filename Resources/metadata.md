@@ -20,6 +20,14 @@ We acknowledge the reality that individual processing archivists may not have th
 * Describe relationships of power when they are important for understanding the context of records. Racism, slurs, white supremacy, colonialism, and histories of oppression are important context.
   * For example, “Thomas Jefferson was a known enslaver despite his legacy as a supporter of individual rights.”
 
+<a name="myfootnote6">[6]</a> Sam Winn, “The Hubris of Neutrality in Archives,” Mid-Atlantic Regional Archives Conference, Newark, NJ, April 2017,  https://medium.com/on-archivy/the-hubris-of-neutrality-in-archives-8df6b523fe9f.
+ 
+<a name="myfootnote7">[7]</a> Michelle Caswell and Marika Cifor, “From Human Rights to Feminist Ethics: Radical Empathy in the Archives,” Archivaria 81 (Spring 2016): 23-43, https://muse.jhu.edu/article/687705.
+ 
+<a name="myfootnote8">[8]</a> See Dominique Luster’s formulation: “conscious language = kind language + compassionate language + mindful language +     empowering language + respectful language + inclusive language.” Dominique Luster,  “Archives Have the Power to Boost Marginalized Voices,” TEDxPittsburgh, Pittsburgh, PA, June 2018, https://youtube.com/watch?v=XsNPlBBi1IE.
+ 
+<a name="myfootnote9">[9]</a> Scout Calvert, “Naming is Power: Omeka-S and Genealogical Data Models,” DLF Forum, Pittsburgh, PA, October 2017, http://calvert4.msu.domains/presenting/modelingoikos.html#/.
+
 <a name="myfootnote10">[10]</a> Thank you to Rachel Elizabeth Winston for this excellent suggestion and example.
 
 <a name="myfootnote11">[11]</a> Jarrett M. Drake, “RadTech Meets RadArch: Towards A New Principle for Archives and Archival Description,” Radcliff e Workshop on Technology & Archival Processing, Cambridge, MA, April 2016, https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325.
