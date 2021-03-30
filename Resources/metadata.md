@@ -19,3 +19,13 @@ We acknowledge the reality that individual processing archivists may not have th
 * Use accurate and strong language such as lynching, rape, murder, and hate mail when they are appropriate. Do not let your discomfort with the terms censor the material. It is okay to be uncomfortable with racist material. It is not okay to privilege your discomfort above accurate description.
 * Describe relationships of power when they are important for understanding the context of records. Racism, slurs, white supremacy, colonialism, and histories of oppression are important context.
   * For example, “Thomas Jefferson was a known enslaver despite his legacy as a supporter of individual rights.”
+
+<a name="myfootnote10">[10]</a> Thank you to Rachel Elizabeth Winston for this excellent suggestion and example.
+
+<a name="myfootnote11">[11]</a> Jarrett M. Drake, “RadTech Meets RadArch: Towards A New Principle for Archives and Archival Description,” Radcliff e Workshop on Technology & Archival Processing, Cambridge, MA, April 2016, https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325.
+
+<a name="myfootnote12">[12]</a> A sample XQuery for locating this type of language within EAD files can be found here: https://github.com/kellybolding/scripts/blob/master/terms_of_aggrandizement.xquery.
+
+<a name="myfootnote13">[13]</a> Arthur Garfield Hays Papers, Public Policy Papers, Department of Rare Books and Special Collections, Princeton University Library, https://findingaids.princeton.edu/collections/MC072. 
+
+<a name="myfootnote14">[14]</a> Thanks to Dorothy Berry for pointing out how rarely Africana studies faculty are consulted as opposed to scholars who study European cultures.
