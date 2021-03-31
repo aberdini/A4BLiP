@@ -44,4 +44,22 @@ Expand the range of audiences considered when writing archival description to in
 
 * For academic archives, reach out to institutional scholars who have expertise in relevant subject areas to get input on description.<sup>[14](#myfootnote14)</sup>
 
+* Describe records in a way that supports the information-seeking needs of stakeholder communities, not just academic scholars.
+
+  * Develop and maintain relationships with community members/stakeholders in order to learn language that the audience recognizes and uses to refer to itself. 
+
+  * Consider the needs of family historians and genealogists who may not be seeking “a fact or date, but to create a larger narrative, connect with others in the past and in the present, and to find coherence in one’s own life;” provide opportunities for genealogists and other researchers who may want to “give back” by contributing description or connect socially with one another.17
+
+  * (Re-)describers should be empathetic towards those who may have emotional ties to people  documented in records. Be careful about language choice and center the humanity of people documented in the records.
+
+  * Take into account potential human rights uses of records, as well as the interests of survivors of abuses. This involves avoiding the inclusion of information or linkages that could put living persons at risk, providing descriptions in languages used by stakeholder communities, and creating metadata about the intentional destruction or accidental preservation of records, which could be mobilized as evidence in human rights proceedings.18
+
+* Consider the option of not naming people should they decide to withhold naming or if naming them could cause harm. For highly surveilled and dispossessed communities, visibility can be a form of  violence. The harm that is infl icted on Black communities, which in many cases are human rights abuses, is not always evident to those outside of those communities.19
+
+* When drafting archivist-supplied description and notes,20 use terminology that Black people use to describe themselves, while recognizing that the Black community is not a monolith, and different people will have different and sometimes conflicting preferences. Be mindful that terminology changes over time, so description will be an iterative process.21
+
+  * For living collection creators or subjects, ask them for their preference.
+
+  * Observe and take cues from the language of current historians, writers, artists, and others who are from (or descended from), specialize in, and have working relationships with the particular communities you’re describing.22 For older records, this means consulting with experts who are knowledgeable about specific communities existing in a certain place and point in time.
+
 <a name="myfootnote14">[14]</a> Thanks to Dorothy Berry for pointing out how rarely Africana studies faculty are consulted as opposed to scholars who study European cultures.
