@@ -79,3 +79,23 @@ Expand the range of audiences considered when writing archival description to in
 <a name="myfootnote21">[21]</a> Thank you to Krystal Appiah for highlighting the importance of iteration.
 
 <a name="myfootnote22">[22]</a> We acknowledge that, while credentials matter, they may take different forms; academic degrees and job experience are one way of gaining expertise, but so are community organizing, activism, and other methods for building knowledge of particular communities outside of institutional structures. We thank Jasmine Clark, Zakiya Collier, and Dorothy Berry for provoking us to think more deeply about who, in particular, we consult for knowledge about specific communities.
+
+  * When consulting with community members, be mindful of individual biases; and make an eff ort to not solely rely on one voice or representative from a particular community. One method for gathering more representative feedback could involve a peer or community review process. 23
+
+  * If you ask people from marginalized communities to help with description, be respectful of their time/labor and provide compensation. Do your homework first, and don’t ask others to provide information you can easily find yourself. Pay them for their work.
+
+* Consult alternative cataloging schemes created by the subjects of the records being described when and if they are available, and cite them in a processing note or other part of the finding aid. As noted above, Black people are not monolithic, and care should be taken when consulting alternative classification schemes to ensure that the schemes consulted truly represent and apply to the community the archivist is describing.24
+
+* Make sure institution-created description is assessed by outside communities.25
+
+  * Provide a feedback mechanism such as creating a highly visible “Suggest a Correction” button or  comment form on online finding aids, and make it clear that you welcome this kind of feedback.
+
+  * Provide mechanisms for users to annotate finding aids.26
+
+  * Organize focus groups with community members and incorporate feedback into archival description.
+ 
+  * For description to be assessed by outside communities, it must be discoverable. If online finding aids are difficult to locate and access, or if description exists on websites that are hard to navigate, community members may be less likely to interact with them.27
+
+* Ensure that Black individuals appear in name authority files, such as the Library of Congress Name Authority File (LCNAF) and Social Networks and Archival Context (SNAC), which may involve collaborating with external communities, especially in cases where your institution lacks relevant expertise. Acknowledge that this will involve dedicating institutional and professional time and resources to co-organizing meetings and events with community members and/or providing cataloging or name   authority work services if requested by communities.
+
+* Be mindful of how individuals are described in authority records, and educate yourself and staff on compassionate and anti-oppressive creation of such records. As one example of harmful name authority creation, one institution associated the only known related date, 1832, with an enslaved individual -- the date that the institution itself had purchased him. By using “Fl. 1832” as a distinguishing characteristic, the institution was centering that transaction as the most significant event in the individual’s life.28 Resource Description and Access (RDA) allows for more expanded diff erentiation methods for names, no longer limited to use of dates. Make use of events, places, occupations, and other known signifiers that humanize rather than dehumanize Black individuals.
