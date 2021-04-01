@@ -24,7 +24,7 @@ We acknowledge the reality that individual processing archivists may not have th
  
 <a name="myfootnote7">[7]</a> Michelle Caswell and Marika Cifor, “From Human Rights to Feminist Ethics: Radical Empathy in the Archives,” Archivaria 81 (Spring 2016): 23-43, https://muse.jhu.edu/article/687705.
  
-<a name="myfootnote8">[8]</a> See Dominique Luster’s formulation: “conscious language = kind language + compassionate language + mindful language +     empowering language + respectful language + inclusive language.” Dominique Luster,  “Archives Have the Power to Boost Marginalized Voices,” TEDxPittsburgh, Pittsburgh, PA, June 2018, https://youtube.com/watch?v=XsNPlBBi1IE.
+<a name="myfootnote8">[8]</a> See Dominique Luster’s formulation: “conscious language = kind language + compassionate language + mindful language + empowering language + respectful language + inclusive language.” Dominique Luster,  “Archives Have the Power to Boost Marginalized Voices,” TEDxPittsburgh, Pittsburgh, PA, June 2018, https://youtube.com/watch?v=XsNPlBBi1IE.
  
 <a name="myfootnote9">[9]</a> Scout Calvert, “Naming is Power: Omeka-S and Genealogical Data Models,” DLF Forum, Pittsburgh, PA, October 2017, http://calvert4.msu.domains/presenting/modelingoikos.html#/.
 
@@ -46,20 +46,36 @@ Expand the range of audiences considered when writing archival description to in
 
 * Describe records in a way that supports the information-seeking needs of stakeholder communities, not just academic scholars.
 
-  * Develop and maintain relationships with community members/stakeholders in order to learn language that the audience recognizes and uses to refer to itself. 
+  * Develop and maintain relationships with community members/stakeholders in order to learn language that the audience recognizes and uses to refer to itself.<sup>[15](#myfootnote15)</sup>
 
-  * Consider the needs of family historians and genealogists who may not be seeking “a fact or date, but to create a larger narrative, connect with others in the past and in the present, and to find coherence in one’s own life;” provide opportunities for genealogists and other researchers who may want to “give back” by contributing description or connect socially with one another.17
+  * Consider the needs of family historians and genealogists who may not be seeking “a fact or date, but to create a larger narrative, connect with others in the past and in the present, and to find coherence in one’s own life;”<sup>[16](#myfootnote16)</sup> provide opportunities for genealogists and other researchers who may want to “give back” by contributing description or connect socially with one another.<sup>[17](#myfootnote17)</sup>
 
   * (Re-)describers should be empathetic towards those who may have emotional ties to people  documented in records. Be careful about language choice and center the humanity of people documented in the records.
 
-  * Take into account potential human rights uses of records, as well as the interests of survivors of abuses. This involves avoiding the inclusion of information or linkages that could put living persons at risk, providing descriptions in languages used by stakeholder communities, and creating metadata about the intentional destruction or accidental preservation of records, which could be mobilized as evidence in human rights proceedings.18
+  * Take into account potential human rights uses of records, as well as the interests of survivors of abuses. This involves avoiding the inclusion of information or linkages that could put living persons at risk, providing descriptions in languages used by stakeholder communities, and creating metadata about the intentional destruction or accidental preservation of records, which could be mobilized as evidence in human rights proceedings.<sup>[18](#myfootnote18)</sup>
 
-* Consider the option of not naming people should they decide to withhold naming or if naming them could cause harm. For highly surveilled and dispossessed communities, visibility can be a form of  violence. The harm that is infl icted on Black communities, which in many cases are human rights abuses, is not always evident to those outside of those communities.19
+* Consider the option of not naming people should they decide to withhold naming or if naming them could cause harm. For highly surveilled and dispossessed communities, visibility can be a form of violence. The harm that is inflicted on Black communities, which in many cases are human rights abuses, is not always evident to those outside of those communities.<sup>[19](#myfootnote19)</sup>
 
-* When drafting archivist-supplied description and notes,20 use terminology that Black people use to describe themselves, while recognizing that the Black community is not a monolith, and different people will have different and sometimes conflicting preferences. Be mindful that terminology changes over time, so description will be an iterative process.21
+* When drafting archivist-supplied description and notes,<sup>[20](#myfootnote20)</sup> use terminology that Black people use to describe themselves, while recognizing that the Black community is not a monolith, and different people will have different and sometimes conflicting preferences. Be mindful that terminology changes over time, so description will be an iterative process.<sup>[21](#myfootnote21)</sup>
 
   * For living collection creators or subjects, ask them for their preference.
 
-  * Observe and take cues from the language of current historians, writers, artists, and others who are from (or descended from), specialize in, and have working relationships with the particular communities you’re describing.22 For older records, this means consulting with experts who are knowledgeable about specific communities existing in a certain place and point in time.
+  * Observe and take cues from the language of current historians, writers, artists, and others who are from (or descended from), specialize in, and have working relationships with the particular communities you’re describing.<sup>[22](#myfootnote22)</sup> For older records, this means consulting with experts who are knowledgeable about specific communities existing in a certain place and point in time.
 
 <a name="myfootnote14">[14]</a> Thanks to Dorothy Berry for pointing out how rarely Africana studies faculty are consulted as opposed to scholars who study European cultures.
+
+<a name="myfootnote15">[15]</a> See Dominique Luster’s work with the Teenie Harris Archive (https://cmoa.org/art/teenie-harris-archive/) for an example of collaborating with stakeholder communities on description.
+
+<a name="myfootnote16">[16]</a> Jeffrey T. Huber and Mary L. Gillaspy, “Social Constructs and Disease: Implications for a Controlled Vocabulary for HIV/AIDS,” Library Trends 47, no. 2 (Fall, 1998): 190-208, https://search.proquest.com/docview/220437703?accountid=13314; Erin Baucom, “An Exploration into Archival Descriptions of LGBTQ Materials,” American Archivist 81, no. 1 (Spring/Summer 2018): 65-83, https://doi.org/10.17723/0360-9081-81.1.65.
+
+<a name="myfootnote17">[17]</a> Elizabeth Yakel, “Seeking Information, Seeking Connections, Seeking Meaning: Genealogists and Family Historians,” Information Research: An International Electronic Journal 10, no. 1 (October 2004), http://informationr.net/ir/10-1/paper205.html. Zakiya Collier suggests that archivists consider using an informal survey or similar method to provide stakeholder patrons with a means to assess the accuracy or helpfulness of the language in finding aids, or that archivists develop the practice of simply asking patrons about their experience using the finding aid.
+
+<a name="myfootnote18">[18]</a> Stacy Wood, Kathy Carbone, Marika Cifor, Anne Gilliland, and Ricardo Punzalan. “Mobilizing Records: Re-Framing Archival De-scription to Support Human Rights,” Archival Science 14, no. 3-4 (October 2014): 397-419, https://doi.org/10.1007/s10502-014-9233-1. 
+
+<a name="myfootnote19">[19]</a> Thank you to Zakiya Collier for this suggestion.
+
+<a name="myfootnote20">[20]</a> For a discussion of different approaches towards language in archivist-supplied vs. creator-supplied description, see the section of this document below on “Handling Racist Folder Titles and Creator-Sourced Description.”
+
+<a name="myfootnote21">[21]</a> Thank you to Krystal Appiah for highlighting the importance of iteration.
+
+<a name="myfootnote22">[22]</a> We acknowledge that, while credentials matter, they may take different forms; academic degrees and job experience are one way of gaining expertise, but so are community organizing, activism, and other methods for building knowledge of particular communities outside of institutional structures. We thank Jasmine Clark, Zakiya Collier, and Dorothy Berry for provoking us to think more deeply about who, in particular, we consult for knowledge about specific communities.
