@@ -62,7 +62,7 @@ Expand the range of audiences considered when writing archival description to in
 
   * Observe and take cues from the language of current historians, writers, artists, and others who are from (or descended from), specialize in, and have working relationships with the particular communities you’re describing.<sup>[22](#myfootnote22)</sup> For older records, this means consulting with experts who are knowledgeable about specific communities existing in a certain place and point in time.
 
-  * When consulting with community members, be mindful of individual biases; and make an eff ort to not solely rely on one voice or representative from a particular community. One method for gathering more representative feedback could involve a peer or community review process.<sup>[23](#myfootnote23)</sup>
+  * When consulting with community members, be mindful of individual biases; and make an effort to not solely rely on one voice or representative from a particular community. One method for gathering more representative feedback could involve a peer or community review process.<sup>[23](#myfootnote23)</sup>
 
   * If you ask people from marginalized communities to help with description, be respectful of their time/labor and provide compensation. Do your homework first, and don’t ask others to provide information you can easily find yourself. Pay them for their work.
 
@@ -70,7 +70,7 @@ Expand the range of audiences considered when writing archival description to in
 
 * Make sure institution-created description is assessed by outside communities.<sup>[25](#myfootnote25)</sup>
 
-  * Provide a feedback mechanism such as creating a highly visible “Suggest a Correction” button or  comment form on online finding aids, and make it clear that you welcome this kind of feedback.
+  * Provide a feedback mechanism such as creating a highly visible “Suggest a Correction” button or comment form on online finding aids, and make it clear that you welcome this kind of feedback.
 
   * Provide mechanisms for users to annotate finding aids.<sup>[26](#myfootnote26)</sup>
 
@@ -81,6 +81,8 @@ Expand the range of audiences considered when writing archival description to in
 * Ensure that Black individuals appear in name authority files, such as the Library of Congress Name Authority File (LCNAF) and Social Networks and Archival Context (SNAC), which may involve collaborating with external communities, especially in cases where your institution lacks relevant expertise. Acknowledge that this will involve dedicating institutional and professional time and resources to co-organizing meetings and events with community members and/or providing cataloging or name authority work services if requested by communities.
 
 * Be mindful of how individuals are described in authority records, and educate yourself and staff on compassionate and anti-oppressive creation of such records. As one example of harmful name authority creation, one institution associated the only known related date, 1832, with an enslaved individual -- the date that the institution itself had purchased him. By using “Fl. 1832” as a distinguishing characteristic, the institution was centering that transaction as the most significant event in the individual’s life.<sup>[28](#myfootnote28)</sup> Resource Description and Access (RDA) allows for more expanded differentiation methods for names, no longer limited to use of dates. Make use of events, places, occupations, and other known signifiers that humanize rather than dehumanize Black individuals.
+
+* Acknowledge that any efforts by PWIs to collaborate with Black communities and institutions on description projects will require explicitly “addressing institutional legacies [of racism] at [these] predominantly white institutions.”<sup>[29](#myfootnote29)</sup> Additionally, it is important to acknowledge that the dominance of whiteness and white supremacy in archives and the library field goes beyond PWIs -- and that the work of helping to address and fix this imbalance of power may not be of primary importance to communities focused on their daily survival. Before reaching out to potential collaborators, institutional partners should be able to concretely articulate how projects will benefit participating communities rather than solely co-opting the knowledge of those communities for institutional gain. Finding ways to build trust and to contribute back to the communities in ways that help sustain their survival and goals should be part of the partnership. Once potential collaborators are engaged, institutional partners must remain open to projects changing and evolving based on the expressed needs of community partners.<sup>[30](#myfootnote30)</sup>
 
 <a name="myfootnote14">[14]</a> Thanks to Dorothy Berry for pointing out how rarely Africana studies faculty are consulted as opposed to scholars who study European cultures.
 
@@ -102,7 +104,7 @@ Expand the range of audiences considered when writing archival description to in
 
 <a name="myfootnote23">[23]</a> Thank you to Zakiya Collier for this suggestion.
 
-<a name="myfootnote24">[24]</a> Some examples of alternative schemes developed by specific communities include: Sandra Littletree and Cheryl A. Metoyer, “Knowledge Organization from an Indigenous Perspective: The Mashantucket Pequot Thesaurus of American Indian Terminology Project,” Cataloging and Classifi cation Quarterly 53, no. 5-6 (2015): 640–657, https://doi.org/10.1080/01639374.2015.1010113; Ann M. Doyle, Kimberly Lawson, and Sarah Dupont, “Indigenization of Knowledge Organization at Xwi7xwa Library,” Journal of Library and Information Studies 13, no. 2 (December 2015), 107-134, https://doi.org/10.6182/jlis.2015.13(2).107; Alissa Cherry and Keshav Mukunda, “A Case Study in Indigenous Classifi cation,” Cataloging and Classifi cation Quarterly, 53, no. 5-6 (2015): 548-567, https://doi.org/10.1080/01639374.2015.1008717; Annie Bossum and Ashley Dunn, “Implementing the Brian Deer Classification Scheme for Aanischaaukamikw Cree Cultural Center,” Collection Management, 42, no. 3-4 (2017): 280-293, https://doi.org/10.1080/01462679.2017.1340858; Jean Elder Cazort, A Handbook for the Organization of Black Materials, prepared for the Institute on the Selection, Organization, and Use of Materials by and about the Negro (Nashville, TN: Fisk University, 1971).
+<a name="myfootnote24">[24]</a> Some examples of alternative schemes developed by specific communities include: Sandra Littletree and Cheryl A. Metoyer, “Knowledge Organization from an Indigenous Perspective: The Mashantucket Pequot Thesaurus of American Indian Terminology Project,” Cataloging and Classification Quarterly 53, no. 5-6 (2015): 640–657, https://doi.org/10.1080/01639374.2015.1010113; Ann M. Doyle, Kimberly Lawson, and Sarah Dupont, “Indigenization of Knowledge Organization at Xwi7xwa Library,” Journal of Library and Information Studies 13, no. 2 (December 2015), 107-134, https://doi.org/10.6182/jlis.2015.13(2).107; Alissa Cherry and Keshav Mukunda, “A Case Study in Indigenous Classification,” Cataloging and Classification Quarterly, 53, no. 5-6 (2015): 548-567, https://doi.org/10.1080/01639374.2015.1008717; Annie Bossum and Ashley Dunn, “Implementing the Brian Deer Classification Scheme for Aanischaaukamikw Cree Cultural Center,” Collection Management, 42, no. 3-4 (2017): 280-293, https://doi.org/10.1080/01462679.2017.1340858; Jean Elder Cazort, A Handbook for the Organization of Black Materials, prepared for the Institute on the Selection, Organization, and Use of Materials by and about the Negro (Nashville, TN: Fisk University, 1971).
 
 <a name="myfootnote25">[25]</a> Gloria Gonzalez and Jasmine Jones. “Access & Diversity: How to Create Practical, Ethical, Minimal Archival Description,” Intersections: Technology and Public Services in Special Collections Symposium, University Park, PA, August 2017, https://docs.google.com/document/d/1U6T3TOhOlROccSHYAxSsd5l6blh2dO7CwS60mf26kWU.
 
@@ -111,3 +113,7 @@ Expand the range of audiences considered when writing archival description to in
 <a name="myfootnote27">[27]</a> Thank you to Rachel Elizabeth Winston for making this point.
 
 <a name="myfootnote28">[28]</a> Thank you to Krystal Appiah for this example.
+
+<a name="myfootnote29">[29]</a> Powell, et al., “This [Black] Woman’s Work.”
+
+<a name="myfootnote30">[30]</a> Thanks to Dorothy Berry, Zakiya Collier, and Rachel Elizabeth Winston for their edits and suggestions for this section.
