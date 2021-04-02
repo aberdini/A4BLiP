@@ -117,3 +117,13 @@ Expand the range of audiences considered when writing archival description to in
 <a name="myfootnote29">[29]</a> Powell, et al., “This [Black] Woman’s Work.”
 
 <a name="myfootnote30">[30]</a> Thanks to Dorothy Berry, Zakiya Collier, and Rachel Elizabeth Winston for their edits and suggestions for this section.
+
+## Auditing Legacy Description and Reparative Processing
+
+* Revisit legacy description to provide better name access for Black people where possible, including names of subjects as well as creators of records. Acknowledging the limits of provenance-based description,31 describe the subjects of documents about oppressed or marginalized peoples at least to the extent that you describe the creators of documents. Consider the extent to which describing a person by name is an act of affi  rminghumanity.32
+
+»At the same time, when describing living creators or subjects, consider that over-description has thepotential to put people from groups already subject to inordinate amounts of surveillance33 at greate rrisk. Whenever possible, consult the person(s) implicated before including personal information34 thatcould possibly put them at risk.»Audit past harmful description practices and implement taxonomic reparations when appropriate.35 Thismight include:
+
+  »Devoting the necessary time, staffi  ng, and fi nancial resources to remediate racist descriptive practices.»Taking the time to locate and describe hidden voices and to correct past failures to respectfullydescribe the histories of Black communities. Following a More Product, Less Process (MPLP) oriterative processing approach, this means considering past failures of care and the possibility ofuncovering hidden voices among the factors for deciding when prioritizing which collections -- orportions of collections -- should receive work above and beyond baseline processing tiers.36
+  
+  »Integrating remediation of racist language in fi nding aids into regular legacy description cleanupprojects.
