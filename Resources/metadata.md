@@ -124,10 +124,26 @@ Expand the range of audiences considered when writing archival description to in
 
 * At the same time, when describing living creators or subjects, consider that over-description has thepotential to put people from groups already subject to inordinate amounts of surveillance<sup>[33](#myfootnote33)</sup> at greater risk. Whenever possible, consult the person(s) implicated before including personal information<sup>[34](#myfootnote34)</sup> thatcould possibly put them at risk.
 
-* Audit past harmful description practices and implement taxonomic reparations when appropriate.<sup>[35](#myfootnote2\35)</sup> This might include:
+* Audit past harmful description practices and implement taxonomic reparations when appropriate.<sup>[35](#myfootnote35)</sup> This might include:
 
   * Devoting the necessary time, staffing, and financial resources to remediate racist descriptive practices.
   
   * Taking the time to locate and describe hidden voices and to correct past failures to respectfully describe the histories of Black communities. Following a More Product, Less Process (MPLP) or iterative processing approach, this means considering past failures of care and the possibility of uncovering hidden voices among the factors for deciding when prioritizing which collections -- or portions of collections -- should receive work above and beyond baseline processing tiers.<sup>[36](#myfootnote36)</sup>
   
   * Integrating remediation of racist language in finding aids into regular legacy description cleanup projects.
+
+  * When replacing racist terms from archivist-supplied description, refraining from removing entirely language that would help researchers discover Black subjects in archival collections, particularly in collections that are predominantly white<sup>[37](#myfootnote37)</sup> (i.e. do not simply delete the word “negro” without using a diff erent descriptor).
+ 
+  * Paying attention to and removing racist physical descriptions of individuals and descriptions that inappropriately assign emotions or motives to subjects.<sup>[38](#myfootnote38)</sup>
+  
+  * When surfacing under-described records of marginalized groups, take care to make these records discoverable without further other-izing them or tokenizing people described in the records. For example, at Princeton, the Association of Princeton Puerto Rican Alumni Records were described in a large artificial collection of subject files. Archivists removed them from this collection and created a separate finding aid<sup>[39](#myfootnote39)</sup> for the records as appropriate for an organizational records collection.
+ 
+* When updating racist language or contextualization in finding aids, always preserve a copy of previous description so that future researchers can explore the history of the finding aid,40 as well as documentation of the rationale behind changes. Methods for doing this include:
+  
+  * Preserving old hard copies or PDFs of finding aids
+  
+  * Creating a publicly accessible collection of legacy finding aids
+  
+  * Making use of local tools for tracking processing documentation, which could include collection management soft ware, physical or digital collection files, version control software and commit notes, or others, as available
+  
+  * Provide a note and/or link in the current finding aid that indicates the existence of legacy finding aids, why they were kept, and how to access them.
