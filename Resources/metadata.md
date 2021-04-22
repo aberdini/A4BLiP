@@ -138,12 +138,12 @@ Expand the range of audiences considered when writing archival description to in
   
   * When surfacing under-described records of marginalized groups, take care to make these records discoverable without further other-izing them or tokenizing people described in the records. For example, at Princeton, the Association of Princeton Puerto Rican Alumni Records were described in a large artificial collection of subject files. Archivists removed them from this collection and created a separate finding aid<sup>[39](#myfootnote39)</sup> for the records as appropriate for an organizational records collection.
  
-* When updating racist language or contextualization in finding aids, always preserve a copy of previous description so that future researchers can explore the history of the finding aid,40 as well as documentation of the rationale behind changes. Methods for doing this include:
+* When updating racist language or contextualization in finding aids, always preserve a copy of previous description so that future researchers can explore the history of the finding aid,<sup>[40](#myfootnote40)</sup> as well as documentation of the rationale behind changes. Methods for doing this include:
   
   * Preserving old hard copies or PDFs of finding aids
   
   * Creating a publicly accessible collection of legacy finding aids
   
-  * Making use of local tools for tracking processing documentation, which could include collection management soft ware, physical or digital collection files, version control software and commit notes, or others, as available
+  * Making use of local tools for tracking processing documentation, which could include collection management software, physical or digital collection files, version control software and commit notes, or others, as available
   
   * Provide a note and/or link in the current finding aid that indicates the existence of legacy finding aids, why they were kept, and how to access them.
