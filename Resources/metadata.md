@@ -168,4 +168,38 @@ Expand the range of audiences considered when writing archival description to in
 
 <a name="myfootnote40">[40]</a> Michelle Caswell, “Teaching to Dismantle White Supremacy in Archives,” The Library Quarterly 87, no. 3 (July 2017): 222-235. https://doi.org/10.1086/692299. See also: Emily Drabinski, “Queering the Catalog: Queer Theory and the Politics of Correction,” The  Library Quarterly: Information, Community, Policy 83, no. 2 (April 2013): 94-111, http://www.jstor.org/stable/10.1086/669547.
 
+## Handling Racist Folder Titles and Creator-Sourced Description
 
+* Consider your audience and the potential for harm when making decisions about whether to preserve problematic creator-supplied language. In most cases, preserve but contextualize creator-sourced original description when racism is an important context for understanding records.<sup>[41](#myfootnote41)</sup> If you choose to maintain some or all racist creator-based description, draw a distinction between the creator-supplied description and archivist-supplied description via quotation marks, processing information note, scope and content note, and/or another method. Other helpful actions may include:
+
+  * Utilizing a series-level note explaining that creator-based folder titles were or were not maintained, recognizing that some language is outdated/offensive, and explaining WHY you chose to maintain or not maintain those labels. Creating standardized institutional language that can be reused may be helpful.
+  
+  * Recognizing that a processing note will not alone be sufficient to communicate to most users.
+  
+  * For collections or discovery portals where users may be harmed by encountering offensive language, it may be appropriate to replace offensive language in primary user-facing description. For an example of this approach, refer to the language policy for the Find & Connect website on child welfare in Australia.<sup>[42](#myfootnote42)</sup>
+ 
+* Make a distinction between the institutional voice/archivist’s voice and the voice of the collection creator (ex. don’t use the same racist terms a creator may have used in folder titles in scope and content notes orother notes that are supplied by the archivist.)
+
+* Research how the community being described feels about certain terms, and weigh MPLP-type re-use ofcreator description against the use of terms that are harmful. Finding other institutions that have grappled with similar collections may help. Where possible, speak directly with creators/subjects who may be harmed by legacy description to determine whether the language should be maintained or changed. In some cases, this research may not be possible, and even when making informed decisions about terminology, it is still possible to do harm.
+
+<a name="myfootnote41">[41]</a> For a discussion of pitfalls of ill-informed attempts to remove racist language that result in further obscuring the context of archival materials about African Americans, see: Dorothy Berry’s presentation at “Toward Culturally Competent Archival (Re)Description of Marginalized Histories,” Society of American Archivists, Washington, DC, August 2018.
+
+<a name="myfootnote42">[42]</a> Find & Connect Web Resource Project for the Commonwealth of Australia. “Language Policy: The Words We Use.” Find & Connect, approved August 2017, https://www.findandconnect.gov.au/about/policies/language-policy-the-words-we-use/.
+
+## Describing Slavery Records
+
+* Use “enslaved” or “captive” [person/woman/man/child/laborer] rather than “slave” when describing peopleheld in bondage.43 Use “enslaver” to describe people who held others in bondage.<sup>[44](#myfootnote44)</sup>
+
+* Avoid lumping the experiences of all people of African origins or descent in the early Americas together. Use “free [person|man|woman] of color” (often abbreviated as “f.p.c,” “f.m.c,” or “f.w.c” on documents),“freed[person|man|woman],” or another term to describe those who were not enslaved during a period when slavery existed in that society. Note that terminology differs depending on geographic location or language, and conduct research to avoid using anachronistic or geographically or linguistically inaccurate terms.<sup>[45](#myfootnote45)</sup>
+
+* If you have item-level description for a deed of purchase for an enslaved person and the seller and purchaser’s names are included, include the name of the person being sold. Humanize these documents from all sides -- not just from the side of the creator.
+
+* Use available information to name enslaved people; in most cases, this information will be incomplete. This means that describers may have to push past their discomfort in creating what the profession views as incomplete records or description.<sup>[46](#myfootnote46)</sup> Whenever possible, record names by which enslaved or formerly enslaved people identified as the primary part of the name rather than using an enslaver’s name as the primary entry. Enslavers’ names may be included as supplemental information to support the identification of enslaved individuals but should not supplant the names of enslaved people, even when only their first names are known.<sup>[47](#myfootnote47)</sup>
+
+* Describe records of slavery such that the descriptions support the information-seeking practices of Black researchers and genealogists<sup>[48](#myfootnote48)</sup> investigating the histories of enslaved persons rather than focusing solely on the data points valued at the point of record creation.
+
+ * In addition to providing more detailed finding aids, when possible, that include the names of enslaved persons, indicate the presence of enslaved people in both slavery-focused and non-slavery-focused collections, even when documentation is fragmentary. Even minimal descriptions can make enslaved historical subjects more discoverable to researchers and counter outdated assumptions that “the Black past is unknowable.”<sup>[49](#myfootnote49)</sup>
+ 
+ * Link to finding aids and other resources at other institutions documenting the same enslavers, enslaved persons, and land.<sup>[50](#myfootnote50)</sup>
+ 
+ * When determining whether to preserve original order or description for slavery collections, factor in the role record-keeping systems played in facilitating the slavery economy and consider whether there is a need to take mediating steps to support secondary use by persons dehumanized by the original functions of records and circumvent the “bureaucratic” logic of a repressive regime.<sup>[51](#myfootnote42)</sup> Mediating steps may include, but are certainly not limited to, additional description and extra effort to surface the names of enslaved persons in archival description and description that clearly identifies that records were kept to facilitate a repressive regime.
