@@ -147,3 +147,25 @@ Expand the range of audiences considered when writing archival description to in
   * Making use of local tools for tracking processing documentation, which could include collection management software, physical or digital collection files, version control software and commit notes, or others, as available
   
   * Provide a note and/or link in the current finding aid that indicates the existence of legacy finding aids, why they were kept, and how to access them.
+
+<a name="myfootnote31">[31]</a> Drake, “RadTech Meets RadArch;” Dorothy Berry, “Hide and Seek: Organizing Hidden Collections for Umbra Search African American History,” Acid Free 5 (Fall 2017), http://www.laacollective.org/work/hide-and-seek-organizing-hidden-collections-for-umbra-search-african-american-history.
+
+<a name="myfootnote32">[32]</a> Alexis Antracoli and Katy Rawdon, “What’s in a Name?:  Archives for Black Lives in Philadelphia and the Impact of Names and Name Authorities in Archival Description,” in Ethical Questions in Name Authority Control, ed. Jane Sandberg, (Sacramento, Litwin Press, 2019).
+
+<a name="myfootnote33">[33]</a> Victor M. Rios, Punished: Policing the Lives of Black and Latino Boys (New York: New York University Press, 2011).
+
+<a name="myfootnote34">[34]</a> The Contribution Terms of Service for A People’s Archive of Police Violence in Cleveland provide an example of a metadata policy that is cognizant of this risk: http://www.archivingpoliceviolence.org/terms. For a discussion of the reasoning behind these terms, see: Stacie M. Williams and Jarrett Drake, “Power to the People: Documenting Police Violence in Cleveland,” Journal of Critical Library and Information Studies 1, no. 2 (2017), http://libraryjuicepress.com/journals/index.php/jclis/article/view/33. 
+
+<a name="myfootnote35">[35]</a> Melissa Adler, “The Case for Taxonomic Reparations,” Knowledge Organization 43, no. 8 (2016): 630-640, https://doi.org/10.5771/0943-7444-2016-8-630.
+
+<a name="myfootnote36">[36]</a> Kelly Bolding, “Reparative Processing: A Case Study in Auditing Legacy Description for Racism,” Midwest Archives Conference, March 24, 2018, https://drive.google.com/open?id=1MhOXx5ZlVjb_8pfvvFquMqLsUUlOHFFMT4js5EP4qnA
+
+<a name="myfootnote37">[37]</a> Anna B. Loewenthal, “Comparing Representations of Race in Finding Aids Over Time,” Master’s thesis, University of North Carolina at Chapel Hill, 2015, https://doi.org/10.17615/xjty-ya81.
+
+<a name="myfootnote38">[38]</a> For an example from a postcard collection where African American children were described as “look[ing] on blankly”, see Annie Tang’s presentation slides from “Toward Culturally Competent Archival (Re)Description of Marginalized Histories,” Society of  American Archivists, Washington, DC, August 2018,  https://archives2018.sched.com/event/ESld/101-toward-culturally-competent-archival-redescription-of-marginalized-histories.
+
+<a name="myfootnote39">[39]</a> Association of Princeton Puerto Rican Alumni Records, Princeton University Archives, Department of Rare Books and Special  Collections, Princeton University Library, https://findingaids.princeton.edu/collections/AC461.
+
+<a name="myfootnote40">[40]</a> Michelle Caswell, “Teaching to Dismantle White Supremacy in Archives,” The Library Quarterly 87, no. 3 (July 2017): 222-235. https://doi.org/10.1086/692299. See also: Emily Drabinski, “Queering the Catalog: Queer Theory and the Politics of Correction,” The  Library Quarterly: Information, Community, Policy 83, no. 2 (April 2013): 94-111, http://www.jstor.org/stable/10.1086/669547.
+
+
