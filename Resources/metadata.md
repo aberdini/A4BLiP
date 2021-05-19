@@ -203,3 +203,31 @@ Expand the range of audiences considered when writing archival description to in
  * Link to finding aids and other resources at other institutions documenting the same enslavers, enslaved persons, and land.<sup>[50](#myfootnote50)</sup>
  
  * When determining whether to preserve original order or description for slavery collections, factor in the role record-keeping systems played in facilitating the slavery economy and consider whether there is a need to take mediating steps to support secondary use by persons dehumanized by the original functions of records and circumvent the “bureaucratic” logic of a repressive regime.<sup>[51](#myfootnote42)</sup> Mediating steps may include, but are certainly not limited to, additional description and extra effort to surface the names of enslaved persons in archival description and description that clearly identifies that records were kept to facilitate a repressive regime.
+
+<a name="myfootnote44">[44]</a> Foreman et al., “Writing about Slavery;” “The Afterlife of Slavery: Language and Ethics,” LaTanya S. Autry, “The Afterlife of Slavery: Language & Ethics” (wakelet), July 2018, https://wakelet.com/wake/f589cdc4-7512-43ff-a489-5ed48062179f.
+
+<a name="myfootnote45">[45]</a> See: Foreman et al., “Writing about Slavery:” “Avoid using ‘people of color’ as a blanket term when writing about Black people or other specific groups - unless you are referencing Cuba, where ‘gente de color’ was a legitimate term used by peoples of African descent in the nineteenth century.”
+
+<a name="myfootnote46">[46]</a> Thank you to Krystal Appiah for this important insight.
+
+<a name="myfootnote47">[47]</a> This advice deviates from guidance given in: David E. Paterson, “A Perspective on Indexing Slaves’ Names,” American Archivist 64, no. 1 (Spring/Summer 2001): 132–142, http://americanarchivist.org/doi/pdf/10.17723/aarc.64.1.th18g8t6282h4283. Especially since contemporary search systems support keyword searching of enslaver names that may be included in other parts of description, there is no reason to use ens  laver names as a primary entry when describing enslaved people. Although the working group read Paterson’s    article while conducting research for this project, this article does not appear in the group’s bibliography because we do not feel that it advances the group’s mission of furthering anti-oppressive archival description.
+
+<a name="myfootnote48">[48]</a> For case studies by Black genealogists using archival records to locate ancestors, see: Tony Burroughs, “Finding African Americans on the 1870 Census,” Heritage Quest (January/February 2001): 50-56, http://www.tonyburroughs.com/uploads/1/3/2/8/13281200/finding_african_americans_on_the_1870_census.pdf.
+
+<a name="myfootnote49">[49]</a> Carole Merritt, “Slave Family Records: An Abundance of Material,” Georgia Archive 6 (Spring 1978): 16-21, https://digitalcommons.kennesaw.edu/cgi/viewcontent.cgi?referer=http://paperity.org/p/81423121/georgia-archive-vi-issue-1&httpsredir=1&article=1230&-context=georgia_archive. For a discussion of the effects on Black researchers who are told by archivists that records do not exist on their research topic when fragmentary records do exist, see: Kellee E. Warren, “We Need these Bodies.”
+
+<a name="myfootnote50">[50]</a> Thank you to Zakiya Collier for this suggestion.
+
+<a name="myfootnote51">[51]</a> Wood, et al., 2014.
+
+## Subjects and Classification
+
+* Do not rely on Library of Congress Subject Headings (LCSH) exclusively when creating subject access points. Thoughtfully consult appropriate alternative classification schemes as described above in the Community Collaboration and Access section.<sup>[52](#myfootnote52)</sup>
+
+* Consider avoiding LCSH terms if they are harmful to the people they describe. If you are uncertain, do research to determine whether the subject heading is considered harmful. If terms are not used, consider how this may affect access. Balance access with language usage thoughtfully. Consider working with groups such as the Cataloging Lab<sup>[53](#myfootnote53)</sup> to actively try to change harmful headings. 
+
+* If you decide to use an LCSH subject heading that is harmful, explain why you have done this in the processing note. For example, you may choose to include a subject heading considered harmful so that you are able to provide access in the short term and update the heading when it is changed through the cooperative cataloging program.
+
+52 For a case study, see: Dorothy Berry, “Digitizing and Enhancing Description Across Collections to Make African American Materials More Discoverable on Umbra Search African American History,” The Design for Diversity Learning Toolkit, Northeastern University Library, 2018, https://des4div.library.northeastern.edu/digitizing-and-enhancing-description-across-collections-to-make-african-amer-ican-materials-more-discoverable-on-umbra-search-african-american-history/.
+
+53 The Cataloging Lab, http://cataloginglab.org/.
