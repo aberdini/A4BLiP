@@ -210,7 +210,7 @@ Expand the range of audiences considered when writing archival description to in
 
 <a name="myfootnote46">[46]</a> Thank you to Krystal Appiah for this important insight.
 
-<a name="myfootnote47">[47]</a> This advice deviates from guidance given in: David E. Paterson, “A Perspective on Indexing Slaves’ Names,” American Archivist 64, no. 1 (Spring/Summer 2001): 132–142, http://americanarchivist.org/doi/pdf/10.17723/aarc.64.1.th18g8t6282h4283. Especially since contemporary search systems support keyword searching of enslaver names that may be included in other parts of description, there is no reason to use ens  laver names as a primary entry when describing enslaved people. Although the working group read Paterson’s    article while conducting research for this project, this article does not appear in the group’s bibliography because we do not feel that it advances the group’s mission of furthering anti-oppressive archival description.
+<a name="myfootnote47">[47]</a> This advice deviates from guidance given in: David E. Paterson, “A Perspective on Indexing Slaves’ Names,” American Archivist 64, no. 1 (Spring/Summer 2001): 132–142, http://americanarchivist.org/doi/pdf/10.17723/aarc.64.1.th18g8t6282h4283. Especially since contemporary search systems support keyword searching of enslaver names that may be included in other parts of description, there is no reason to use ens  laver names as a primary entry when describing enslaved people. Although the working group read Paterson’s article while conducting research for this project, this article does not appear in the group’s bibliography because we do not feel that it advances the group’s mission of furthering anti-oppressive archival description.
 
 <a name="myfootnote48">[48]</a> For case studies by Black genealogists using archival records to locate ancestors, see: Tony Burroughs, “Finding African Americans on the 1870 Census,” Heritage Quest (January/February 2001): 50-56, http://www.tonyburroughs.com/uploads/1/3/2/8/13281200/finding_african_americans_on_the_1870_census.pdf.
 
@@ -228,6 +228,26 @@ Expand the range of audiences considered when writing archival description to in
 
 * If you decide to use an LCSH subject heading that is harmful, explain why you have done this in the processing note. For example, you may choose to include a subject heading considered harmful so that you are able to provide access in the short term and update the heading when it is changed through the cooperative cataloging program.
 
-52 For a case study, see: Dorothy Berry, “Digitizing and Enhancing Description Across Collections to Make African American Materials More Discoverable on Umbra Search African American History,” The Design for Diversity Learning Toolkit, Northeastern University Library, 2018, https://des4div.library.northeastern.edu/digitizing-and-enhancing-description-across-collections-to-make-african-amer-ican-materials-more-discoverable-on-umbra-search-african-american-history/.
+<a name="myfootnote52">[52]</a> For a case study, see: Dorothy Berry, “Digitizing and Enhancing Description Across Collections to Make African American Materials More Discoverable on Umbra Search African American History,” The Design for Diversity Learning Toolkit, Northeastern University Library, 2018, https://des4div.library.northeastern.edu/digitizing-and-enhancing-description-across-collections-to-make-african-amer-ican-materials-more-discoverable-on-umbra-search-african-american-history/.
 
-53 The Cataloging Lab, http://cataloginglab.org/.
+<a name="myfootnote53">[53]</a> The Cataloging Lab, http://cataloginglab.org/.
+
+## Transparency
+
+* Description should acknowledge shortcomings with regards to collecting gaps, as well as institutional responsibility for creating those gaps.
+
+  * Especially for collections a repository is responsible for assembling, describe the policies and practices that led to the current composition to the collection, and related gaps,<sup>[54](#myfootnote54)</sup> in the scope and content note.
+
+  * Make collection development policies public and have them regularly reviewed by outside communities.
+
+* Always include a processing information note so that researchers can see who described a collection and when. If descriptive language was updated to address racist terminology, indicate this in the processing note if it is not already indicated in other descriptive notes that users are more likely to encounter when navigating collection descriptions.
+
+  * For example, while alerting users to the presence of problematic creator-supplied folder titles may be more appropriate in a series-level scope and content note, efforts to update subject headings and other collection-level processing decisions should be indicated in a collection-level processing note.
+
+  * Also consider encoding processing notes at more granular levels of the finding aid, when applicable, to increase the likelihood that users will encounter them and avoid overly lengthy notes at the collection level.
+
+* If your institution is systematically engaged in addressing racism in archival description and catalog   records, consider publishing an online statement outlining principles and goals.<sup>[55](#myfootnote55)</sup> If your institution is not already engaged in this work, advocate for initiating efforts to address racism in archival description, to the extent that you have the privilege and authority to do so; this can include advocating to publish a statement as a method of holding your institution accountable, integrating guidelines for addressing racist description into processing manuals, or other achievable interventions.
+
+<a name="myfootnote54">[54]</a>  For examples of digital collections that explicitly acknowledge gaps, refer to this crowdsourced document: Amalia S. Levi, “P3BH-WHDigital archives; digitized collections; DH projects that explicitly acknowledge and discuss archival silences in their content,” 2018, https://docs.google.com/document/d/1YKndOKpUECMR_P1ObBq3f8v_-YlfuGxC9qjlBD8C-dY.
+
+<a name="myfootnote55">[55]</a>  For examples, see Temple University Libraries’ SCRC Statement on Potentially Harmful Language in Archival Description and Cataloging: https://library.temple.edu/policies/14; and Swarthmore College’s Search Collections page https://www.swarthmore.edu/friends-historical-library/search-collections.
